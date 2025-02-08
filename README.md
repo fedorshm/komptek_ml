@@ -10,5 +10,5 @@
 
 ![Screenshot from 2025-02-08 13-55-14](https://github.com/user-attachments/assets/7e36cb42-9e0c-4182-8a77-f0338b26ba65)
 
-Телеграмм-бот (@komptek_depression_bot) собирает данные и дает вердикт (данные передаются в локально развернутую дообученную модель, подкачанную с [HuggingFace](https://huggingface.co/Gnider/kompt_distil_v1))
+Телеграмм-бот (@komptek_depression_bot) собирает данные и дает вердикт (данные переводятся в текстовую строку и передаются в локально развернутую дообученную модель, подкачанную с [HuggingFace](https://huggingface.co/Gnider/kompt_distil_v1))
 Скрипт бота в telegram_bot.py
