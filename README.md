@@ -8,5 +8,5 @@
 
 Дообучение трансформера; лучший результат - distilbert-base-uncased
 
-Чат-бот собирает данные и дает вердикт (данные передаются в локально развернутую дообученную модель, подкачанную с [HuggingFace](https://huggingface.co/Gnider/kompt_distil_v1))
+Телеграмм-бот (@komptek_depression_bot) собирает данные и дает вердикт (данные передаются в локально развернутую дообученную модель, подкачанную с [HuggingFace](https://huggingface.co/Gnider/kompt_distil_v1))
 Скрипт бота в telegram_bot.py
